@@ -1,7 +1,7 @@
 Rule 30
 ======
 
-A JavaScript and canvas implementation of Stephen Wolfram's elementary cellular automata according to Rule  30 as described [http://mathworld.wolfram.com/Rule30.html](here).
+A JavaScript and canvas implementation of Stephen Wolfram's elementary cellular automata according to Rule  30 as described [here](http://mathworld.wolfram.com/Rule30.html) .
 
 The page is responsive to window size and will modify the canvas size to fit your screen when you start the automaton. Canvas size is always twice as wide as it is high to prevent the automaton from being cut off at the bottom.
 
